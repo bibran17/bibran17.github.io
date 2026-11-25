@@ -176,6 +176,8 @@ h2 { font-family: 'Unbounded', sans-serif; font-weight: 500; font-size: clamp(28
   .about-grid { gap: 32px; }
   .nav nav a:not(.nav-cta) { display: none; }
   .glow, .scroll-hint { display: none; }
+  .contact-box { padding-left: 16px; padding-right: 16px; }
+  .mail { font-size: clamp(13px, 4.2vw, 24px); max-width: 100%; overflow-wrap: anywhere; }
 }
 
 /* Для тех, кто отключил анимации в системе */
